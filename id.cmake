@@ -3,8 +3,7 @@ set(package bzip2)
 byd__package__info(${package}
     MAINTAINER_NAME "David Callu"
     MAINTAINER_EMAIL "callu.david@gmail.com"
-    VERSION 1.0.6
-    PACKAGE_VERSION 0.1
+    VERSION 1.0.6-1
     ABI 1.0
     )
 
